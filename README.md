@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @albertoje04
   
-- 👀 I’m interested in basically sharing my code with you guys
+- 👀 I’m interested in basically sharing my code with you guys. To share my work through my studies and my professional journey.
 
 - 🌱 I’m currently studying the second course of my degree in Computer Science. I have learned to work with OOP (POO in spanish), data structure and more. I have worked with languages such as C++, a little bit of Python, some Java,
 - some Bash(Script) and also worked with RISC-V. Now, I will be working with more Java, C and who knows how many more!
